@@ -1,4 +1,4 @@
-# type: virgl
+// type: virgl
 
 let notice = String::from(r#¨
 NOTICE:
